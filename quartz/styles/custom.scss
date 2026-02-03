@@ -1,3 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  border-left: 3px solid #f2a1b3;
+  padding-left: 1.2rem;
+}
