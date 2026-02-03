@@ -19,39 +19,39 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
-      },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+   theme: {
+  fontOrigin: "googleFonts",
+  cdnCaching: true,
+  typography: {
+    header: "Playfair Display",  // romantic, slightly fancy serif
+    body: "Quicksand",          // soft, round, readable sans-serif
+    code: "IBM Plex Mono",      // keep code monospaced
+  },
+  colors: {
+    lightMode: {
+      light: "#fff6f8",        // blush paper
+      lightgray: "#f2dfe6",    // soft rose gray
+      gray: "#d6b6c2",         // muted pink-gray
+      darkgray: "#6b4b57",     // warm plum text
+      dark: "#2f1f26",         // deep wine
+      secondary: "#d16c7d",    // rose accent 💗
+      tertiary: "#f2a1b3",     // strawberry milk
+      highlight: "rgba(209, 108, 125, 0.15)",
+      textHighlight: "#ffd1dc88",
     },
+    darkMode: {
+      light: "#1a1216",        // dark rosewood
+      lightgray: "#3a2a31",    // muted plum
+      gray: "#7f5a68",         // dusty rose
+      darkgray: "#f0dce2",     // soft pink-white text
+      dark: "#fff1f5",         // warm light text
+      secondary: "#f2a1b3",    // pink glow
+      tertiary: "#d16c7d",     // rose accent
+      highlight: "rgba(242, 161, 179, 0.18)",
+      textHighlight: "#ffb7c588",
+    },
+  },
+},
   },
   plugins: {
     transformers: [
