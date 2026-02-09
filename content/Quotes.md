@@ -2,8 +2,6 @@
 title: Things You’ve Said ✧
 ---
 
-# Things you’ve said ✧
-
 Some people flirt.  My love language is remembering hihi. 
 
 ---
@@ -552,5 +550,10 @@ Some people flirt.  My love language is remembering hihi.
 
 ## ✧
 
+> “Babe, if you participate in the ramadan can you eat my pussy?”
 
+(I feel like this is kind of a self-insult haha....)
 
+---
+
+## ✧
