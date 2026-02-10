@@ -1,10 +1,8 @@
 ---
-title: Will You Be My Valentine? 💖
+title: Dear Jade
 ---
 
 ---
-
-## Dear Jade
 
 distance makes being romantic a little hard
 
@@ -33,16 +31,16 @@ and heart flutter
 ### Will you be my Valentine? 💘
 
 <div style="text-align:center; margin-top:3rem;">
-  <button onclick="alert('I was really hoping you’d say yes 💖. On Wednesday evening, March 18th, I have a romantic evening planned for you hihi. So pick a cute dress and I'll see you soon love!')" style="
+  <a href="content/Valentine%202025" style="
+    display:inline-block;
     font-size:1.2rem;
     padding:1rem 2.5rem;
     border-radius:999px;
-    border:none;
     background:#e76f51;
     color:white;
-    cursor:pointer;">
+    text-decoration:none;">
     Yes 💕
-  </button>
+  </a>
 </div>
 
 ---
@@ -55,4 +53,5 @@ One last thing…
 I put some random stuff about us on this site so feel free to explore ><
 
 </details>
+
 
