@@ -31,7 +31,7 @@ and heart flutter
 ### Will you be my Valentine? 💘
 
 <div style="text-align:center; margin-top:3rem;">
-  <a href="Valentine%202025" style="
+  <a href="Valentine%202026" style="
     display:inline-block;
     font-size:1.2rem;
     padding:1rem 2.5rem;
